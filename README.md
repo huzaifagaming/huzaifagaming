@@ -15,6 +15,9 @@
    <a href="https://www.instagram.com/zeeshan__31/">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
+   <a href="https://www.fiverr.com/emma_here32?up_rollout=true">
+    <img src="https://img.shields.io/badge/Fiver-green300?style=for-the-badge&logo=fiver&logoColor=white%22%20alt=%22fiver%20Badge"/>
+  </a>
    <a href="https://web.facebook.com/profile.php?id=61560525667184">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
